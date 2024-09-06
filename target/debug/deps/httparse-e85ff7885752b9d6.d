@@ -1,0 +1,10 @@
+/Users/zhaoxin/code/ai-assistant/target/debug/deps/libhttparse-e85ff7885752b9d6.rmeta: /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/lib.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/iter.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/macros.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/simd/mod.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/simd/swar.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/simd/neon.rs
+
+/Users/zhaoxin/code/ai-assistant/target/debug/deps/httparse-e85ff7885752b9d6.d: /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/lib.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/iter.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/macros.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/simd/mod.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/simd/swar.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/simd/neon.rs
+
+/Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/lib.rs:
+/Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/iter.rs:
+/Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/macros.rs:
+/Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/simd/mod.rs:
+/Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/simd/swar.rs:
+/Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/httparse-1.9.4/src/simd/neon.rs:

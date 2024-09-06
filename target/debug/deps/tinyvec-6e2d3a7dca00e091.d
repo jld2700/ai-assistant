@@ -1,0 +1,11 @@
+/Users/zhaoxin/code/ai-assistant/target/debug/deps/libtinyvec-6e2d3a7dca00e091.rmeta: /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/lib.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/array.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/array/generated_impl.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/arrayvec.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/arrayvec_drain.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/slicevec.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/tinyvec.rs
+
+/Users/zhaoxin/code/ai-assistant/target/debug/deps/tinyvec-6e2d3a7dca00e091.d: /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/lib.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/array.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/array/generated_impl.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/arrayvec.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/arrayvec_drain.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/slicevec.rs /Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/tinyvec.rs
+
+/Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/lib.rs:
+/Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/array.rs:
+/Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/array/generated_impl.rs:
+/Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/arrayvec.rs:
+/Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/arrayvec_drain.rs:
+/Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/slicevec.rs:
+/Users/zhaoxin/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/tinyvec-1.8.0/src/tinyvec.rs:
